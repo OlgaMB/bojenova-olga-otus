@@ -1,2 +1,3 @@
-# bojenova-olga-otus
-otus react-js-native-09-2019
+react + redux
+Цель: С помощью redux работаем с нашим приложением погоды. Стараемся использовать redux вместо react-state.
+Рекомендую настроить jest для тестирования redux.
